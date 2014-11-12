@@ -24,6 +24,7 @@ public class RPS {
 		}
 		else if (results == 2)
 		{
+			// Can you please explain what you are trying to accomplish/demonstrate here?
 			end.PolymorphismEndGame();
 		}
 		end.OutCome();
